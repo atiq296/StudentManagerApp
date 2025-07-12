@@ -10,7 +10,12 @@ A simple C# console app that allows users to manage student data using object-or
 
 ## Technologies
 - C#
-- .NET Core
+- .NET Console App
+
+## Topics Covered
+- Classes and Objects
+- Lists
+- User Input
 
 ## Author
 - Muhammad Atique(https://github.com/atiq296)
